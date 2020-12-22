@@ -8,7 +8,7 @@ import msoffcrypto
 
 
 """usage
-./unlock.py -d ../data/locked_data.xlsx -p PASSWORD
+./unlock.py -d ${PATH_TO_DATA}/locked_data.xlsx -p PASSWORD
 """
 
 
